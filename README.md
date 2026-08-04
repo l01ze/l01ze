@@ -6,6 +6,7 @@ I'm a versatile developer driven by curiosity and a willingness to learn anythin
 
 ### 🚀 Featured Projects
 * **[AI Workout Planner](https://github.com/l01ze/Workoutplanner)** – An adaptive, preference-based fitness planner with live previews.
+* **[MirrorForge Ai ](https://github.com/l01ze/Mirrorforge)** – An Ai prompt generator for cloning, idea building and inovating on the go
 * **[Anthesia Chat](https://github.com/l01ze/Anthesiachat)** – Integrating conversational AI models into custom interfaces.
 
 ### 🛠️ Tech & Approach
