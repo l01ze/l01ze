@@ -1,21 +1,32 @@
 # Hi, I'm l01ze 👋
 
-I'm a versatile developer driven by curiosity and a willingness to learn anything. Rather than sticking to a single stack, I explore everything from software to hardware, constantly picking up new technologies to build whatever catches my interest.
+I'm a developer who likes building things, experimenting with new technology, and figuring out how things work. I don't really stick to one stack — I jump between web development, AI, automation, and whatever else I find interesting.
+
+I use AI heavily throughout my development process, from brainstorming and prototyping to building and improving projects. I like turning ideas into working products and learning new technologies along the way.
 
 ---
 
 ### 🚀 Featured Projects
-* **[AI Workout Planner](https://github.com/l01ze/Workoutplanner)** – An adaptive, preference-based fitness planner with live previews.
-* **[MirrorForge Ai ](https://github.com/l01ze/Mirrorforge)** – An Ai prompt generator extension for cloning, idea building and inovating on the go
-* **[Anthesia Chat](https://github.com/l01ze/Anthesiachat)** – Integrating conversational AI models into custom interfaces.
 
-### 🛠️ Tech & Approach
-* **Adaptability:** Experienced across web builds, scripting, and hardware integration.
-* **Modern Stack:** Always learning and actively integrating AI capabilities into current projects.
+* **[Anthesiachat](https://github.com/l01ze/Anthesiachat)** — A browser-based, client-side multi-agent AI studio for creating, customizing, and orchestrating multiple AI agents in one interface.
+* **[Codelab](https://github.com/l01ze/Codelab)** — A browser-based code editor designed to feel like a full desktop IDE, with a VS Code-inspired interface, file explorer, editor, terminal, and development tools.
+* **[Findly](https://github.com/l01ze/Findly)** — A student-focused platform for discovering activities, events, and opportunities based on your interests and location.
+* **[MirrorForge](https://github.com/l01ze/MirrorForge)** — A Chrome extension that analyzes websites and turns their structure, styling, and content into detailed AI-ready prompts for recreating and experimenting with ideas.
+* **[Portofolio](https://github.com/l01ze/Portofolio)** — A responsive single-file engineering portfolio built with HTML, CSS, and JavaScript.
+* **[Workoutplanner](https://github.com/l01ze/Workoutplanner)** — A browser-based workout planner and tracker with an AI assistant for creating and modifying personalized routines.
 
-### 📫 Connect
-* I keep my work contained right here. Explore my repositories or open an issue to get in touch.
-<!---
-l01ze/l01ze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 🛠️ What I Do
+
+* **Build:** Web apps, tools, AI applications, browser extensions, and experimental projects.
+* **Explore:** AI, automation, software architecture, hardware, and new technologies.
+* **Experiment:** I like taking an idea and seeing how far I can push it.
+* **Learn:** Most of my projects are also a way for me to learn something new.
+
+
+---
+
+### 📫 Explore My Work
+
+Most of what I'm working on is here on GitHub. Check out my repositories, try out the projects, or open an issue if you want to talk about something
